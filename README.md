@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **marcos.vdss@outlook.com**
 
-- 📄 Know about my experiences [linkedin.com/in/marcosvdss/](linkedin.com/in/marcosvdss/)
-
 - ⚡ Fun fact **You can never beat me in Street Fighter 3rd Strike**
 
 <h3 align="left">Connect with me:</h3>
