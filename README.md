@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently studying on **Trybe, a Brazilian coding school**
 
-- 🌱 I’m currently learning **back-end development**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **marcos.vdss@outlook.com**
 
