@@ -25,19 +25,6 @@
 
 ---
 
-## 📌 Featured Projects  
-### 🔹 [Project Name](https://github.com/marcovdss/project-name)
-*Short description of the project.*  
-**Tech Used:** React, Node.js, MongoDB, TailwindCSS  
-
-### 🔹 [Another Project](https://github.com/marcovdss/another-project)
-*Short description of the project.*  
-**Tech Used:** Python, Flask, Docker, PostgreSQL  
-
-*(📍 Pin your best repos for quick access!)*  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcovdss&theme=radical&hide_border=true" width="48%" />
