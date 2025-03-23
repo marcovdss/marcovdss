@@ -1,14 +1,14 @@
 <h1 align="center">🚀 Marcos | Full-Stack Developer & Cybersecurity Enthusiast</h1>
-<p align="center">🎯 Passionate about building secure and scalable applications</p>
+<p align="center">🎯 Passionate about building secure, scalable applications and advancing cybersecurity</p>
 <p align="center">🌍 From Brazil | Open to collaborations & learning new things</p>
 
 ---
 
 ## 💡 About Me  
 - 🔹 Full-Stack Developer with a focus on **React, Node.js, and Cybersecurity**  
-- 🔹 Passionate about **secure coding, ethical hacking & system architecture**  
-- 🔹 Love automating workflows and building scalable web applications  
-- 🔹 Always up for a challenge—especially in **Street Fighter 3rd Strike 🎮**  
+- 🔹 Passionate about **secure coding**, **ethical hacking**, and **system architecture**  
+- 🔹 Driven to **protect data**, **mitigate risks**, and build **robust** applications  
+- 🔹 Always eager to **learn**, **collaborate**, and **adapt** to new challenges—especially in **Street Fighter 3rd Strike 🎮**  
 
 📩 **Let's connect:** [Email Me](mailto:marcos.vdss@outlook.com) | [LinkedIn](https://linkedin.com/in/marcosvdss)  
 
@@ -41,4 +41,4 @@
 
 🔗 **[LinkedIn](https://linkedin.com/in/marcosvdss)** | **[Email](mailto:marcos.vdss@outlook.com)**  
 
-🔥 *Bring up a new challenge!* 🚀  
+🔥 *Let’s take on new cybersecurity challenges together!* 🚀
