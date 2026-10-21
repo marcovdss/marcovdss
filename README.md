@@ -6,8 +6,6 @@ I like figuring out how things work, messing with systems, and occasionally spen
 
 A good chunk of my free time goes into game modding, reverse engineering, and building tools for things I enjoy.
 
-Also, I play Street Fighter III: 3rd Strike. Not necessarily well.
-
 ### A bit about what I do
 
 - Full-stack development, mostly React, Node.js, and TypeScript.
@@ -29,9 +27,9 @@ Also, I play Street Fighter III: 3rd Strike. Not necessarily well.
 
 ### Outside of work
 
-I enjoy RPGs, fighting games, and taking games apart to see what I can do with them.
+I enjoy RPGs, strategy games, and taking games apart to see what I can do with them.
 
-Lately, I've been particularly interested in modding Final Fantasy games, experimenting with their mechanics, and making tools to work around their limitations.
+Lately, I've been particularly interested in modding games, experimenting with their mechanics, and making tools to work around their limitations.
 
 Sometimes the project is the game. Sometimes the project is figuring out how to mod the game.
 
