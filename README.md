@@ -1,4 +1,4 @@
-# Hey, I'm Marco!
+# Hey!
 
 I'm a developer from Brazil. I mostly work with web development and information security, but I have a habit of getting sidetracked by whatever catches my interest.
 
