@@ -1,41 +1,75 @@
-# Marco Sobrinho
+# marcos@github:~$
 
-**Full-Stack Developer · Software Engineering · Security**
+```sh
+$ whoami
+Marcos Sobrinho
+Full-Stack Developer / Software Engineering / Security
 
+$ location
+Brazil
 
-My work spans frontend and backend development, system architecture, and exploring how software behaves beneath the surface. I enjoy understanding systems as much as building them, whether that means developing applications, reverse-engineering existing software, or experimenting with new tools.
+$ cat about.txt
+I build software, explore systems, and occasionally take
+things apart to understand how they work.
 
-Based in Brazil.
+My interests range from web development and security to
+reverse engineering, tooling, and game modding.
 
-### Areas of interest
+I value simple solutions, readable code, and understanding
+what happens beneath the abstraction.
+```
 
-- **Software Engineering** — Full-stack development, application architecture, and tooling.
-- **Security** — Secure development, vulnerability research, and understanding attack surfaces.
-- **Reverse Engineering** — Exploring software internals, modifying existing systems, and understanding undocumented behavior.
-- **Game Development & Modding** — Experimenting with game mechanics, systems design, and extending existing games.
+## ~/expertise
 
-### Technologies
+```text
+software/
+├── frontend          React, TypeScript, Tailwind CSS
+├── backend           Node.js, Python, SQL
+├── infrastructure    Docker, Linux, Nginx
+└── testing           Jest, Cypress, Mocha, GitHub Actions
 
-**Languages**  
-JavaScript · TypeScript · Python · SQL
+research/
+├── security          Secure coding, vulnerability research
+├── systems           Architecture, tooling, internals
+├── reverse-engineering
+└── game-modding       Mechanics, systems, extensibility
+```
 
-**Frontend**  
-React · Tailwind CSS
+## ~/work
 
-**Backend & Infrastructure**  
-Node.js · PostgreSQL · MySQL · Docker · Nginx · Linux
+I enjoy projects that involve solving problems beyond the application layer, especially those requiring investigation, experimentation, and an understanding of existing systems.
 
-**Development & Testing**  
-Git · GitHub Actions · Jest · Cypress · Mocha · Postman
+Current areas of exploration include:
 
-### Currently exploring
+- Software architecture and developer tooling
+- Security and reverse engineering
+- Game systems, modding, and interoperability
+- Automation and practical applications of AI
 
-Systems programming, reverse engineering, game modding, and the intersection between software engineering and security.
+## ~/environment
 
-### Elsewhere
+```yaml
+languages:    [typescript, javascript, python, sql]
+frontend:     [react, tailwind]
+backend:      [nodejs]
+databases:    [postgresql, mysql]
+tools:        [git, docker, linux, nginx]
+testing:      [jest, cypress, mocha]
+ci_cd:        [github-actions]
+```
+
+## ~/contact
+
+```sh
+$ cat contact.txt
+
+email       marcos.vdss@outlook.com
+linkedin    linkedin.com/in/marcosvdss
+github      github.com/marcovdss
+```
 
 [LinkedIn](https://linkedin.com/in/marcosvdss) · [Email](mailto:marcos.vdss@outlook.com)
 
 ---
 
-<sub>Interested in how things work. Even more interested in making them work differently.</sub>
+<sub>`exit 0`</sub>
