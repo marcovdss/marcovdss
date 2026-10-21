@@ -1,75 +1,44 @@
-# marcos@github:~$
+# Hey, I'm Marco!
 
-```sh
-$ whoami
-Marcos Sobrinho
-Full-Stack Developer / Software Engineering / Security
+I'm a developer from Brazil. Mostly working with web development, but I tend to get sidetracked by whatever catches my interest.
 
-$ location
-Brazil
+I like figuring out how things work, messing with systems, and occasionally spending an entire weekend solving a problem that probably didn't need solving.
 
-$ cat about.txt
-I build software, explore systems, and occasionally take
-things apart to understand how they work.
+A good chunk of my free time goes into game modding, reverse engineering, and building tools for things I enjoy.
 
-My interests range from web development and security to
-reverse engineering, tooling, and game modding.
+Also, I play Street Fighter III: 3rd Strike. Not necessarily well.
 
-I value simple solutions, readable code, and understanding
-what happens beneath the abstraction.
-```
+### A bit about what I do
 
-## ~/expertise
+- Full-stack development, mostly React, Node.js, and TypeScript.
+- Python for scripting, automation, and whatever else needs doing.
+- Cybersecurity, secure coding, and poking around software internals.
+- Game modding. Sometimes I spend more time changing games than playing them.
+- Linux, Docker, databases, and the usual developer headaches.
 
-```text
-software/
-├── frontend          React, TypeScript, Tailwind CSS
-├── backend           Node.js, Python, SQL
-├── infrastructure    Docker, Linux, Nginx
-└── testing           Jest, Cypress, Mocha, GitHub Actions
+### Things I work with
 
-research/
-├── security          Secure coding, vulnerability research
-├── systems           Architecture, tooling, internals
-├── reverse-engineering
-└── game-modding       Mechanics, systems, extensibility
-```
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, SQL |
+| **Frontend** | React, Tailwind CSS |
+| **Backend** | Node.js |
+| **Databases** | PostgreSQL, MySQL |
+| **Tools** | Git, Docker, Linux, Nginx |
+| **Testing** | Jest, Cypress, Mocha, GitHub Actions |
 
-## ~/work
+### Outside of work
 
-I enjoy projects that involve solving problems beyond the application layer, especially those requiring investigation, experimentation, and an understanding of existing systems.
+I enjoy RPGs, fighting games, and taking games apart to see what I can do with them.
 
-Current areas of exploration include:
+Lately, I've been particularly interested in modding Final Fantasy games, experimenting with their mechanics, and making tools to work around their limitations.
 
-- Software architecture and developer tooling
-- Security and reverse engineering
-- Game systems, modding, and interoperability
-- Automation and practical applications of AI
+Sometimes the project is the game. Sometimes the project is figuring out how to mod the game.
 
-## ~/environment
-
-```yaml
-languages:    [typescript, javascript, python, sql]
-frontend:     [react, tailwind]
-backend:      [nodejs]
-databases:    [postgresql, mysql]
-tools:        [git, docker, linux, nginx]
-testing:      [jest, cypress, mocha]
-ci_cd:        [github-actions]
-```
-
-## ~/contact
-
-```sh
-$ cat contact.txt
-
-email       marcos.vdss@outlook.com
-linkedin    linkedin.com/in/marcosvdss
-github      github.com/marcovdss
-```
+### Find me
 
 [LinkedIn](https://linkedin.com/in/marcosvdss) · [Email](mailto:marcos.vdss@outlook.com)
 
 ---
 
-<sub>`exit 0`</sub>
+<sub>Probably working on something I was supposed to finish three projects ago.</sub>
